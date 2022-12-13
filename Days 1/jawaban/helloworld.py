@@ -5,3 +5,6 @@ print (5%6)
 print (5/6)
 print (5**6)
 print ("Sheva Haya Milano")
+print ("105222036")
+print ("Jakarta")
+
