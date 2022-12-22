@@ -35,4 +35,12 @@ keliling_lingkaran = 2 * phi * rad
 print("Luas lingkaran: ", luas_lingkaran)
 print("Keliling lingkaran: ", keliling_lingkaran) 
 
+print("DAYS3_LV3")
+x1 = 2
+x2 = 6
+y1 = 2
+y2 = 10
+m = (y2 - y1) / (x2 - x1)
+print("Slope: ", m)
+
 
