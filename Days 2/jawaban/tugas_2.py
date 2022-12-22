@@ -59,4 +59,12 @@ print(input(umur))
 print(input(asal_daerah))
 
 # 5
+rad = int(input("Masukan nilai jari-jari: ",))
+phi = 3.14
+area_of_circle = phi * rad * rad
+circum_of_circle = 2 * phi * rad
+print("Luas lingkaran: ", area_of_circle)
+print("Keliling lingkarang: ", circum_of_circle)
 
+# 6
+help('keyword')
