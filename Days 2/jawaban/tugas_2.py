@@ -53,5 +53,10 @@ print("6. Eksponensial num_one dan num_two: ", exp)
 print("7. Floor divison num_one dan num_two: ", floor_division)
 print("")
 
-#4
+# 4
 print(input(nama))
+print(input(umur))
+print(input(asal_daerah))
+
+# 5
+
